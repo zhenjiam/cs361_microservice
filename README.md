@@ -9,5 +9,5 @@ Then run CalcBudget.py (either on a separate terminal or using PyCharm). A windo
 
 Here is the UML sequence diagram showing how the process works:
 
-<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_seq_diagram.png" width="300" height="200">
+<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_seq_diagram.png" width="600" height="400">
 
