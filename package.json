@@ -1,0 +1,22 @@
+{
+  "name": "microservice_server",
+  "version": "1.0.0",
+  "description": "implement http request for a microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhenjiam/cs361_microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhenjiam/cs361_microservice/issues"
+  },
+  "homepage": "https://github.com/zhenjiam/cs361_microservice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
