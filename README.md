@@ -8,5 +8,6 @@ First run server.js (on visual code) by going to the directory containing this f
 Then run CalcBudget.py (either on a separate terminal or using PyCharm). A windo will pop up and request the user to input 2 data: (1) the remaining money they had after deducting the expenses, and (2) the time interval they want to set for their budget goal. Once the user clicks 'submit', the microservice will do the necessary calculations and the user should see the data received from the microservice on localhost:5000.
 
 Here is the UML sequence diagram showing how the process works:
-<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_seq_diagram.png" width="150" height="280">
+
+<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_seq_diagram.png" width="300" height="2000">
 
