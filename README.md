@@ -13,5 +13,5 @@ The data is sent from CalcBudget.py via http protocol to the listening server. T
 
 Here is the UML sequence diagram showing how the process works:
 
-<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_seq_diagram.png" width="600" height="400">
+<img src="https://github.com/zhenjiam/cs361_microservice/blob/main/UML_Sequence_Diagram.png" width="600" height="400">
 
